@@ -1,0 +1,20 @@
+.navbar
+{
+    background-color: #EA1218;
+}
+
+.header-logo
+{
+    max-height: 75px;
+    padding-left: 25px;
+}
+
+.nav-item
+{
+    padding: 0 25px;
+}
+
+.nav-link
+{
+    font-size: 20px;
+}

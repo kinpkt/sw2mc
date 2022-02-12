@@ -1,0 +1,17 @@
+@font-face 
+{
+    font-family: "Sukhumvit Set";
+    src: url("../fonts/SukhumvitSet-Medium.ttf");
+}
+
+*
+{
+    font-family: "Sukhumvit Set";
+}
+
+.navbar-brand
+{
+    padding-left: 25px;
+    font-size: 20pt;
+    font-weight: bold;
+}
